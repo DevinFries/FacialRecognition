@@ -27,3 +27,13 @@ Rectangles and labels are drawn on the video feed to display the results.
 Exiting the Program:
 
 Press 'q' on the video window to exit the application.
+
+
+Note:
+
+Make sure to install the required libraries:
+
+bash
+pip install face_recognition opencv-python numpy
+
+Place images of known individuals in a folder (e.g., known_faces/). The filename (without extension) is used as the person's name.
