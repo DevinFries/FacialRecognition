@@ -3,6 +3,7 @@ Python program that performs facial recognition using the face_recognition libra
 
 
 How It Works
+
 Loading Known Faces:
 
 The load_known_faces function reads all image files from the specified folder.
